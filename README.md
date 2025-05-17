@@ -1,4 +1,3 @@
-readme_final = """
 # Customer Churn Analysis (SQL Project)
 
 This project explores customer churn behavior using SQL. The dataset simulates a telecom business with customer demographics, billing data, tenure, and churn status.
