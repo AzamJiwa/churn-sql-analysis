@@ -1,8 +1,8 @@
 
 # Customer Churn Analysis (SQL Project)
 
-**Dataset:** Simulated telecom churn data  
-**Tools:** SQL (via db-fiddle or any SQL editor)  
+**Dataset:** Telecom churn data  
+**Tools:** SQL (via db-fiddle)  
 **Goal:** Identify churn patterns based on plan type, tenure, charges, and customer service interactions
 
 ## Key SQL Queries
@@ -13,4 +13,4 @@
 - Average tenure of churned customers
 - Gender breakdown of churn
 
-You can run these queries using a SQL editor like [db-fiddle](https://www.db-fiddle.com/).
+Ran queries using SQL editor [db-fiddle](https://www.db-fiddle.com/).
