@@ -14,3 +14,9 @@
 - Gender breakdown of churn
 
 Ran queries using SQL editor https://www.db-fiddle.com/f/c9GkJGRvZKMPK2W7BQEwng/1
+## Live SQL Demo
+
+You can view and run the SQL code live here:  
+https://www.db-fiddle.com/f/c9GkJGRvZKMPK2W7BQEwng/1
+
+Note: Click the **"Run"** button to execute the queries and see results.
