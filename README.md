@@ -13,4 +13,4 @@
 - Average tenure of churned customers
 - Gender breakdown of churn
 
-Ran queries using SQL editor [db-fiddle](https://www.db-fiddle.com/).
+Ran queries using SQL editor https://www.db-fiddle.com/f/c9GkJGRvZKMPK2W7BQEwng/1
