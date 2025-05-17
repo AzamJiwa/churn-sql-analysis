@@ -22,7 +22,7 @@ This project explores customer churn behavior using SQL. The dataset simulates a
 You can view and run all queries live here:  
 [Run on DB Fiddle](https://www.db-fiddle.com/f/c9GkJGRvZKMPK2W7BQEwng/1)
 
-Click the **"Run"** button in the top-right to execute queries and see results.
+Click the **"Run"** button in the top-left to execute queries and see results.
 
 ## Files in This Repository
 
